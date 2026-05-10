@@ -27,7 +27,6 @@ La aplicación permite a los clientes:
 ### 1. Clonar el repositorio
 ```bash
 git "https://github.com/Cain-Cabrera/FoodStore---Ecommerce-.git"
-cd "ubicacion del repo local forkeado"
 ```
 
 ### 2. Instalar dependencias con pnpm

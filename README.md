@@ -44,9 +44,7 @@ pnpm dev
 El servidor estará disponible en **http://localhost:5173**
 
 ### 4. Acceder a la aplicación
-- **Home (Catálogo)**: http://localhost:5173/src/pages/store/home/home.html
-- **Carrito**: http://localhost:5173/src/pages/store/cart/cart.html
-
+- **Home **: El servidor estará disponible en **http://localhost:5173**
 ---
 
 ## Estructura del proyecto
